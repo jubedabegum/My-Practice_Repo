@@ -1,0 +1,11 @@
+git remote add origin repo-url link local-repo to central-repo
+git remove -v used to get the linked repo in github
+git push -u origin branch-name push the code from local to central
+git push -u origin branch-1 branch-2 used to push the code to multiple
+branches
+git push -u origin --all used to push the code to all branches at a
+time
+git clone repo-url used to get the code from central to local
+git pull origin branch used to get the chanes from central to
+local
+git fetch branch-name used to fetch the data from central to local
